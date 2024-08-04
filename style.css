@@ -1,0 +1,49 @@
+*{
+    text-decoration: none;
+}
+
+.logo img{
+
+    width:130px;
+    height:17px;
+    padding-top: 20px;
+}
+
+.header {
+
+    display: flex;
+    justify-content: space-between;
+    padding-left: 120px;
+    padding-right: 150px;
+    
+    
+}
+
+li{
+
+    display: inline-block;
+    padding-left: 40px;
+    text-decoration: none;
+    cursor: pointer;
+    font-weight: 600;
+    
+}
+
+a hover{
+
+    color: blue;
+}
+
+
+.image {
+
+    padding-left: 350px;
+    padding-top: 60px;
+}
+
+.footer {
+
+    padding-left: 120px;
+    padding-right: 150px;
+    
+}
